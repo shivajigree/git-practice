@@ -1,0 +1,9 @@
+some
+
+git rm --cache some.txt
+-untracks file
+
+git add .
+(. to add all files)
+
+git commit -m "readme and added"
