@@ -7,3 +7,8 @@ git add .
 (. to add all files)
 
 git commit -m "readme and added"
+
+single command for add and commit:
+	git commit -a -m "msg"
+
+git push repo_address branch
